@@ -1,2 +1,3 @@
-# LA_201501072_inverse_matrix
-This code is for inverse of matrix
+Inver matrix of 5*5 matrix using Gauss jordan elimination method.
+
+Tool : Verilog 
